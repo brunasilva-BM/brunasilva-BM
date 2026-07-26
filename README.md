@@ -6,7 +6,7 @@
 
  # Bruna Silva 👩🏽‍💻
 
-**`Aprendendo Front End`**
+**`Aprendendo Front-End`**
 
  Eu sou a Bruna, apaixonada por Design e códigos.
 
