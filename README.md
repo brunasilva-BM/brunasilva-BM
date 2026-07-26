@@ -8,7 +8,7 @@
 
 **`Aprendendo Front-End`**
 
- Eu sou a Bruna, apaixonada por Design e códigos.
+ Apaixonada por Design e códigos. 
 
 Formada em Design gráfico pela Faculdade Cruzeiro do Sul. 🎓
 
