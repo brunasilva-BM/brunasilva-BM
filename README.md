@@ -52,4 +52,11 @@ Aprendendo Front End pelo projeto Tranforma-se parceria do Serasa com o PROA. �
     />
 
 
+                                 🤖 ------------------------------------------------------------------------------------------   🤖
 
+### 🤖 Projetos atuais
+
+Atualmente estou desenvolvendo a plataforma Conecta Talentos juntos com a minha equipe. 
+
+
+                                 
