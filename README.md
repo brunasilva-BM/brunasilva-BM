@@ -1,4 +1,6 @@
-# Bruna Silva 👩🏽‍💻
+
+
+ # Bruna Silva 👩🏽‍💻
 
 **`Aprendendo Front End`**
 
@@ -8,7 +10,8 @@ Formada em Design gráfico pela Faculdade Cruzeiro do Sul. 🎓
 
 Aprendendo Front End pelo projeto Tranforma-se parceria do Serasa com o PROA. 👩🏽‍💻
 
-### 🤖 Linguagens e Tecnologias
+
+                                                           ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
