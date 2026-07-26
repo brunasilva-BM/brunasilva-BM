@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Oi, 👋 eu sou a Bruna!
+ Eu sou a Bruna, apaixonada por Design e códigos.
 
 Formada em Design gráfico pela Faculdade Cruzeiro do Sul.
 
